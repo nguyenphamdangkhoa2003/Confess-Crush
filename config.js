@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Gửi Thu Hiền - Điều tuyệt vời nhất của anh",
+    introTitle: "Chào Thu Hiền đáng yêu của anh 🥰",
+    introDesc: `Trái Đất có hơn 8 tỉ người,
+    Nhưng tâm trí anh chỉ hướng về một người duy nhất.
+    Đó chính là Trần Thu Hiền,
+    Cô gái làm tim anh lỗi nhịp mỗi ngày.`,
+    btnIntro: "Nhấn vào đây đi Hiền 🤍",
+    title: "Phải chăng anh đã say ngay từ cái nhìn đầu tiên? 🫣",
+    desc: "Hiền có biết nụ cười của Hiền có công suất lớn lắm không, nhìn một cái là anh 'bật bãi' luôn rồi!",
+    btnYes: "Thích anh lắm luôn chứ gì nữa <33",
+    btnNo: "Mơ đi nha :P (nút này bị lỗi rồi Hiền ơi)",
+    question: "Giữa thế giới bao la này, điều gì ở anh làm Hiền chú ý nhất thế? <3",
+    btnReply: "Gửi câu trả lời cho anh nha 💌",
+    reply: "Tại vì anh siêu cấp đáng yêu và thương Hiền nhất quả đất chứ sao! <333",
+    mess: "Anh biết mà 🥰. Anh cũng thương Thu Hiền nhiều nhiều lắm! 😘😘",
+    messDesc: "Tối nay đồ đẹp sẵn sàng nha, anh qua đón Hiền đi lượn lờ phố xá.",
+    btnAccept: "Okiiiii luôn, đợi anh đó <3",
+    messLink: 'https://www.facebook.com/iwillcoder.203' // Thay link Facebook Messenger của bạn vào đây nhé
 }
